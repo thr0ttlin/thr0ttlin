@@ -4,14 +4,14 @@
           build something simply because it's fun. ☺️✨ </p>
           
 <p align='center'> 
-    <a href="https://linkedin.com/in/redrockstyle"><img height="25" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
-    <a href="https://github.com/redrockstyle"><img height="25" src="https://img.shields.io/badge/GitHub-%23181717?&style=for-the-badge&logo=github&logoColor=white"></a>&nbsp;&nbsp;
+    <a href="https://linkedin.com/in/thr0ttlin"><img height="25" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
+    <a href="https://github.com/thr0ttlin"><img height="25" src="https://img.shields.io/badge/GitHub-%23181717?&style=for-the-badge&logo=github&logoColor=white"></a>&nbsp;&nbsp;
     <a href="https://t.me/khzsec"><img height="25" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>&nbsp;&nbsp;
 </p>
 
 ---
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=redrockstyle&hide=css,scss,html,JavaScript,Jupyter%20Notebook&hide_progress=true&langs_count=6&theme=transparent" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thr0ttlin&hide=css,scss,html,JavaScript,Jupyter%20Notebook&hide_progress=true&langs_count=6&theme=transparent" />
 
 <p align="left">
     :shipit: Pentester | Offensive Security Engineer
