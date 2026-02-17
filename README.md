@@ -11,7 +11,7 @@
 
 ---
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thr0ttlin&hide=css,scss,html,JavaScript,Jupyter%20Notebook&hide_progress=true&langs_count=6&theme=transparent" />
+<img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thr0ttlin&theme=transparent" />
 
 <p align="left">
     :shipit: Pentester | Offensive Security Engineer
