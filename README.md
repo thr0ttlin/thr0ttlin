@@ -27,7 +27,7 @@
 ---
 
 <p align="center">
-    This profile features both experimental projects and custom-built tools used during testing. <br>
+    <br> This profile features both experimental projects and custom-built tools used during testing. <br>
     🤝 I'm open to any collaboration opportunities! 🤝
 </p>
 
