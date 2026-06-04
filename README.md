@@ -17,11 +17,11 @@
 
 <p align="left">
     :shipit: Pentester | Offensive Security Engineer
-    <br>🌐 WEB Application Security
-    <br>🪛 Android Application Security
-    <br>🔧 Reverse Engineering
+    <br>🌐 Web App Penetration Testing
+    <br>🪛 Android App Security Testing
+    <br>🔍 Desktop App Security Testing
+    <br>🔧 Binary Research / Reverse Engineering
     <br>🔨 Systems Programming
-    <br>🔍 OSINT
 </p>
 
 ---
